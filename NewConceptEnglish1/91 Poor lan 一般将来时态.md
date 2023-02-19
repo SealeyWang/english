@@ -26,9 +26,11 @@ will move 是一般将来时态
 
 时间：表示从现在看，将来要发生的动作或情况
 
-常与将来的时间状语连用，如： tomorrow,next wee
+常与将来的时间状语连用，如： tomorrow,next week
 
 结构： will/shall + 动词原形
+
+be going to +　动词原型
 
 shall 只用于第一人称（I, we）
 
@@ -40,14 +42,26 @@ will 可用于任何人称，常和主语缩写为'll, 否定缩写 won't。
 - Will you miss me?
 - I was, am and will be your friend. 我过去是，现在是 将来也会是你的朋友
 
-be going to 为将来时态的一种体现形式，但若表示可短的，认为无法改变的事不用此结构 用 will
-
 - I'll be 20 next year.
 - 错误用法 I am going to be 20 next year.
 
 - 他下周搬家 He'll move house next week.
 - 你今晚给我打电话吗？ Will you call me tonight
 - 明天我不来了。I won't come tomorrow
+
+## will 和 be going to 的区别
+
+- be going to 表示近期、眼下就要发生的事情,will 表示的较远的将来时间
+  - He is going to write a letter tonight.
+  - He will write book one day.
+- be going to 表示根据主观判断将来肯定发生的事情，will 表示客观上将来势必发生的事情。
+  - Look at the gathering clouds. It is going to rain. (gathering 聚集)
+  - He will be twenty years old.
+- be going to 含有“计划，准备”的意思，而 will 则没有这个意思
+  - She is going to lend us her book. (lend 借出)
+  - He will be here in half an hour.
+- 在有条件从句的主句中，一般不用 be going to, 而多用 will
+  - If any beasts comes at you,I'll stay with you and help you. (beast 野兽)
 
 # 过去将来时态 新概念一册 没有
 
