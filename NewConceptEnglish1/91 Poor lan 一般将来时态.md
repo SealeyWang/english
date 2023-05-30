@@ -67,7 +67,7 @@ will 可用于任何人称，常和主语缩写为'll, 否定缩写 won't。
 
 用法：表示从过去看将来发生的动作。
 
-结构： would + 动词原型
+结构： would + 动词原型 。 would + do
 
 一般将来时态的 will 替换为 would(will 过去式)
 
